@@ -1,16 +1,11 @@
 # chat_hub
 
-A new Flutter project.
+chat hub is a chatting Application developed using flutter and firebase
 
 ## Getting Started
+https://github.com/NesanSelvan/Chat-Hub/assets/151986779/9461b417-3f78-4db8-ae0a-83c064bccdf9
+https://github.com/NesanSelvan/Chat-Hub/assets/151986779/9814d0f0-e06f-4687-a45f-5dc3046485c0
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
